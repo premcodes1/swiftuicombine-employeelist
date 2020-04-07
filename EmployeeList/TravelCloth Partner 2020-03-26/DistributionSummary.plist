@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TravelCloth Partner.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+				<key>dateExpires</key>
+				<string>16/02/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Cosmos.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Kingfisher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>RSSelectionMenu.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Siren.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SkyFloatingLabelTextField.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftSignatureView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>03B90EA0167092D95BF9B029D9B5E538899FBD79</string>
+						<key>dateExpires</key>
+						<string>16/02/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>PQLHM82845</string>
+						<key>name</key>
+						<string>Vayu Travelcloth Private Limited</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PQLHM82845.com.agathsya.TravelClothPartner</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PQLHM82845</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>TravelCloth Partner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f6c1c9e2-ba51-448c-945f-6826d1da1b02</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.agathsya.TravelClothPartner</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>PQLHM82845</string>
+				<key>name</key>
+				<string>Vayu Travelcloth Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
