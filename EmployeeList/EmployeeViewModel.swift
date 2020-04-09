@@ -12,8 +12,9 @@ import Combine
 class EmployeeViewModel : ObservableObject{
     @Published var pulbishingNames : [String] = []
     @Published var employeeData : [EmployeeDatum] = []
+    var finalFetch : AnyCancellable?
     func receivedEmployeeData(){
-        WebService.fetchApi()
+        finalFetch = WebService.fetchApi()
             .sink(receiveCompletion: {completion in
                 switch completion{
                 case.finished:
